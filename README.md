@@ -1,4 +1,4 @@
-### Neural Networks in TensorFlow
+### Neural Networks Regression in TensorFlow
 
 ### Project Description:
 This project focuses on building, training, and evaluating deep learning neural network regression models using TensorFlow 2.x.
